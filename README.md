@@ -34,8 +34,6 @@ Lab 7 - Delta Modulation (DM) and Pulse Code Modulation (PCM):
 delta_modulation.slx - Delta modulation simulation.
 pcm.slx - PCM setup with audio input.
 
-Lab Task:
-final_lab_task.slx - Comprehensive lab task combining various modulation techniques.
 Getting Started
 
 Prerequisites
