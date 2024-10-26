@@ -11,7 +11,6 @@ ask_product.slx - Product-based ASK simulation.
 Lab 2 - Frequency Shift Keying (FSK):
 
 fsk_demod.slx - FSK demodulation with noise.
-plot_noise.m - MATLAB script to plot FSK demodulation under noisy conditions.
 
 Lab 3 - Binary Phase Shift Keying (BPSK):
 
