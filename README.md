@@ -46,3 +46,6 @@ Running the Simulations
 
 Contributions
 Contributions to extend the modulation techniques or improve simulation accuracy are welcome! Fork the repository, make your changes, and submit a pull request.
+
+Acknowledgments
+This work was completed as part of the ETE-306: Digital Communication Sessional course at the Chittagong University of Engineering and Technology.</p>
